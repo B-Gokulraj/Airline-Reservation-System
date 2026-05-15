@@ -56,7 +56,7 @@ Code/
 ## Screenshots
 
 ### Main Menu
-<img width="800" alt="Main Menu" src="YOUR_IMAGE_LINK">
+<img width="800" alt="Main Menu" src="[YOUR_IMAGE_LINK](https://github.com/B-Gokulraj/Airline-Reservation-System/raw/main/Images/Admin%20Login.jpg)">
 
 ### Admin Login
 <img width="800" alt="Admin Login" src="YOUR_IMAGE_LINK">
