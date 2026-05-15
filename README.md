@@ -53,21 +53,7 @@ Code/
 
 ---
 
-## Screenshots
 
-### Main Menu
-<img width="800" alt="Main Menu" src="(https://github.com/B-Gokulraj/Airline-Reservation-System/raw/main/Images/Admin%20Login.jpg)">
-
-### Admin Login
-<img width="800" alt="Admin Login" src="YOUR_IMAGE_LINK">
-
-### Admin Dashboard
-<img width="800" alt="Admin Dashboard" src="YOUR_IMAGE_LINK">
-
-### User Booking Portal
-<img width="800" alt="User Booking" src="YOUR_IMAGE_LINK">
-
----
 
 ## How to Run
 
